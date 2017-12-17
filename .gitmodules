@@ -10,9 +10,6 @@
 [submodule "proot-next"]
 	path = proot-next
 	url = https://github.com/termux/proot.git
-[submodule "debian-noroot/proot-src-next"]
-	path = debian-noroot/proot-src-next
-	url = https://github.com/termux/proot.git
 [submodule "proot"]
 	path = proot
 	url = https://github.com/termux/proot.git
