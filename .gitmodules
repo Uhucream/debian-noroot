@@ -7,12 +7,6 @@
 [submodule "proot-src"]
 	path = proot-src
 	url = git@github.com:cedric-vincent/PRoot.git
-[submodule "proot-next"]
-	path = proot-next
-	url = https://github.com/termux/proot.git
-[submodule "proot"]
-	path = proot
-	url = https://github.com/termux/proot.git
 [submodule "proot-src-next"]
 	path = proot-src-next
 	url = https://github.com/termux/proot.git
