@@ -9,4 +9,4 @@
 	url = git@github.com:cedric-vincent/PRoot.git
 [submodule "proot-src-next"]
 	path = proot-src-next
-	url = https://github.com/termux/proot.git
+	url = git@github.com:proot-me/PRoot.git
