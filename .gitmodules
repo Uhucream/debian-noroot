@@ -13,3 +13,6 @@
 [submodule "proot"]
 	path = proot
 	url = https://github.com/termux/proot.git
+[submodule "proot-src-next"]
+	path = proot-src-next
+	url = https://github.com/termux/proot.git
